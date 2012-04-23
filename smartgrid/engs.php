@@ -76,30 +76,30 @@ function indexContent() {
 	$html .="</form>";
 	
 	//thset of divs to become populated with stuff based on choices.
-	$html .="<div class=\"nomargin nopadding\" id=\"errordiv\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-cert\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-twoyear\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-fouryear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"errordiv\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"northern-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"northern-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"northern-mecheng-fouryear\"></div>";
 	
-	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-cert\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-twoyear\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-fouryear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"northern-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"northern-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"northern-electricaleng-fouryear\"></div>";
 	
-	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-cert\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-twoyear\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-fouryear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"central-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"central-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"central-mecheng-fouryear\"></div>";
 	
-	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-cert\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-twoyear\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-fouryear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"central-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"central-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"central-electricaleng-fouryear\"></div>";
 	
-	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-cert\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-twoyear\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-fouryear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"southern-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"southern-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"southern-mecheng-fouryear\"></div>";
 	
-	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-cert\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-twoyear\"></div>";
-	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-fouryear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"southern-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"southern-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding clearfilter\" id=\"southern-electricaleng-fouryear\"></div>";
 
 	$html .= "</div>\n";
 	echo $html;

@@ -837,7 +837,7 @@ function submitFilters() {
 			//document.getElementById('errordiv').innerHTML += "<br /><br />" + region + interest + programType + "<br /><br />" + divIDFilter;
 	}
 	//test error handling
-	//document.getElementById('errordiv').innerHTML += "<br /><br />" + region + interest + programType + "<br /><br />" + divIDFilter;
+	document.getElementById('errordiv').innerHTML += "<br /><br />" + region + interest + programType + "<br /><br />" + divIDFilter;
 	
 	
 	
