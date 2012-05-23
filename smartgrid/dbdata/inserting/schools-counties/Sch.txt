@@ -1,0 +1,72 @@
+school_name	school_description	school_region	school_county
+UC Berkeley		Northern	Alameda
+UC Davis		Northern	Yolo
+UC Irvine		Southern	Orange
+UCLA		Southern	Los Angeles
+UC Merced		Central	Merced
+UC Riverside		Southern	Riverside
+UC San Diego		Southern	San Diego
+UC Santa Barbara		Southern	Santa Barbara
+UC Santa Cruz		Northern	Santa Cruz
+CSU Bakersfield		Southern	Kern
+CSU Channel Islands		Southern	Ventura
+CSU Chico		Northern	Butte
+CSU Dominguez Hills		Southern	Los Angeles
+CSU East Bay		Northern	Alameda
+CSU Fresno		Central	Fresno
+CSU Fullerton		Southern	Orange
+CSU Long Beach		Southern	Los Angeles
+CSU Los Angeles		Southern	Los Angeles
+Humboldt State University		Northern	Humboldt
+American River College		Northern	Sacramento
+Berkeley City College		Northern	Alameda
+Butte College		Northern	Butte
+Cabrillo College		Northern	Santa Cruz
+Canada College		Northern	San Mateo
+Chabot College		Northern	Alameda
+College of Alameda		Northern	Alameda
+College of Marin		Northern	Marin
+College of Redwood		Northern	Humboldt
+College of San Mateo		Northern	San Mateo
+College of Sequoias		Central	Tulare
+College of the Siskiyous		Northern	Siskiyou
+Columbia Community College		Northern	Tuolumne
+Contra Costa College		Northern	Contra Costa
+Consumnes River College		Northern	Sacramento
+DeAnza College		Northern	Santa Clara
+Diablo Valley College		Northern	Contra Costa 
+Evergreen Valley College		Northern	Santa Clara
+Feather River College		Northern	Plumas
+Folsom Lake College		Northern	Sacramento
+Foothill College 		Northern	Santa Clara
+Fresno City College		Central	Fresno
+Gavilan College		Central	Santa Clara
+Hartnell College		Central	Monterey
+Lake Tahoe Community College		Northern	El Dorado
+Laney Community College		Northern	Alameda
+Las Positas College		Northern	Alameda
+Lassen College		Northern	Lassen
+Los Medanos College		Northern	Contra Costa
+Mendocino College		Northern	Mendocino
+Merced College		Central	Merced
+Merritt College		Northern	Alameda
+Mission College		Northern	Santa Clara
+Modesto Junior College		Central	Stanislaus
+Monterey Peninsula College		Central	Monterey
+Napa Valley College		Northern	Napa
+Ohlone College		Northern	Alameda
+Reedley College		Central	Fresno
+Sacramento City College		Northern	Sacramento
+City College of San Francisco		Northern	San Francisco
+San Joaquin Delta College		Northern	San Joaquin
+San Jose City College		Central	Santa Clara
+Santa Rosa Junior College 		Northern	Sonoma
+Shasta College		Northern	Shasta
+Sierra College		Northern	Sacramento
+Skyline College		Northern	San Francisco
+Solano Community College		Northern	Solano
+West Hills College Coalinga		Central	Fresno
+West Hills College Leemore		Central	Fresno
+West Valley Community College		Central	Santa Clara
+Woodland Community College		Northern	Yolo
+Yuba Community College		Northern	Yuba
