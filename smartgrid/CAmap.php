@@ -18,7 +18,7 @@ getFooter();
 function mapContent(){
     $html = "";
 	$html .= "<div class=\"grid_13 homepage\">\n";
-	$html .= "<IMG SRC=\"california.png\" alt=\"California map \" WIDTH=770 HEIGHT=981 BORDER=0 USEMAP=\"#ca_map_counties_Map\">\n";
+	$html .= "<IMG SRC=\"images\california.png\" alt=\"California map \" WIDTH=770 HEIGHT=981 BORDER=0 USEMAP=\"#ca_map_counties_Map\">\n";
 	$html .= "<MAP NAME=\"ca_map_counties_Map\">\n";
 
 	$html .= "	<AREA SHAPE=\"poly\" ALT=\"Alameda \" COORDS=\"145,432, 161,431, 176,449, 206,438, 200,468, 134,468, 157,447\" HREF=\"alameda.htm\">\n";
