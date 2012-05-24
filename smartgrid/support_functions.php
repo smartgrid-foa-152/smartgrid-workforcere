@@ -24,7 +24,7 @@ function getHeader() {
     $html .= "<link rel=\"stylesheet\" href=\"grid.css\" type=\"text/css\" />\n\n";
 	$html .="<script type=\"text/javascript\" src=\"jscript.js\"></script>\n\n";
     //title
-    $html .= "<title>Smart Grid</title>\n\n";
+    $html .= "<title>Smart Grid Work Force</title>\n\n";
     //end head
     $html .= "</head>\n\n";
     //begin page body
@@ -55,12 +55,12 @@ function getSide() {
     //append to $html the HTML strings
     $html .= "<div class=\"grid_3\">\n";
 	$html .= "<div class=\"sidebar\">\n";
-    $html .= "<h1>Resources</h1>\n";
-    $html .= "<ul class=\"columnlist\">\n";
+   	$html .= "<h1>Resources</h1>\n";
+    	$html .= "<ul class=\"columnlist\">\n";
 	$html .= "<li><a href=\"http://www.energy.ca.gov/\" target=\"_blank\" title=\"California Energy Comission\">California Energy Commission</a></li>\n";
 	$html .= "<li><a href=\"http://www.caiso.com/Pages/default.aspx\" target=\"_blank\" title=\"California ISO\">California ISO</a></li>\n";
 	$html .= "<li><a href=\"http://www.cpuc.ca.gov/puc/\" target=\"_blank\" title=\"California Public Utilities Commission\">California Public Utilities Commission</a></li>\n";
-    $html .= "<li><a href=\"http://greencapitalalliance.org/\" target=\"_blank\" title=\"Green Cap Alliance\">Green Capital Alliance</a></li>\n";
+    	$html .= "<li><a href=\"http://greencapitalalliance.org/\" target=\"_blank\" title=\"Green Cap Alliance\">Green Capital Alliance</a></li>\n";
 	$html .="<li><a href=\"http://www.ladwp.com/ladwp/areaHomeIndex.jsp?contentId=LADWP_GREENLA_SCID\" target=\"_blank\" title=\"Los Angeles Department of Water and Power\">Los Angeles Department of Water and Power</a></li>\n";
 	$html .="<li><a href=\"http://next10.org/next10/publications/green_jobs.html\" target=\"_blank\" title=\"Next10 Many Shades of Green\">Next10 Many Shades of Green</a></li>\n";
 	$html .="<li><a href=\"http://www.onetonline.org/find/green?n=3&g=Go\" target=\"_blank\" title=\"O*Net Green Sector Jobs\">ONet Green Sector Jobs</a></li>\n";
@@ -94,6 +94,12 @@ function getNav() {
 	$html .= "<ul class=\"nav\">\n";
     $html .= "<li><a href=\"index.php\" title=\"Home\">Home</a></li>\n";
     $html .= "<li>\n";
+	
+	// added for showing the map -- Sirisha
+    $html .= "<li><a href=\"CAmap.php\" title=\"Mapping\">Map</a></li>\n";
+    $html .= "<li>\n";
+	//add end --sirisha
+
     $html .= "<a href=\"#\" title=\"Training Programs\">Training Programs</a>\n";
     $html .= "<ul>\n";
     $html .= "<li><a href=\"uc.php\">University of California</a></li>\n";
@@ -116,6 +122,7 @@ function getNav() {
 *   Postconditions: Returns HTML for the page footer.
 *
 *******************************************************************/
+
 
 function getFooter(){
 	$html = "";
